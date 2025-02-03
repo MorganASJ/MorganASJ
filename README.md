@@ -1,6 +1,6 @@
 ## Hi there 👋
-🌱 I’m a PhD student at the University of Bristol
-🔭 I’m currently working on automating phylogenetic dataset construction
+- 🌱 I’m a PhD student at the University of Bristol
+- 🔭 I’m currently working on automating phylogenetic dataset construction
 
 
 
